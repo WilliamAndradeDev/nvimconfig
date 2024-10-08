@@ -11,3 +11,8 @@ opt.clipboard:append("unnamedplus")
 -- dividindo janelas
 opt.splitright = true
 opt.splitbelow = true
+
+-- tabs e identação
+opt.tabstop = 4
+opt.shiftwidth = 4
+opt.autoindent = true
